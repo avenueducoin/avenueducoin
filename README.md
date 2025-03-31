@@ -1,4 +1,6 @@
-## Hi there 👋
+# Avenue du Coin - Média IA & tech
+
+👋 Bienvenue sur le github de [Avenue du Coin, média spécialisé sur l'intelligence artificielle](https://avenueducoin.com/)
 
 <!--
 **avenueducoin/avenueducoin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
